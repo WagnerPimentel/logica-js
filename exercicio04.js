@@ -9,6 +9,7 @@ while (inicio <= fim) {
     console.log(inicio)
     soma = inicio + inicio
     inicio++
-}
+}   
+
 
 console.log("Soma dos números: " + soma)
