@@ -1,11 +1,11 @@
 // Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
 
-let numero1, numero2
+let inicio, fim, soma
 
-numero1 = 5
-numero2 = 18
+inicio = 8
+fim = 16
 
-while ( <= 20) {
-    numeros = numeros + " " + i
-    i++
-}
+while (inicio <= fim) {
+    console.log(inicio)
+    inicio++
+}   
